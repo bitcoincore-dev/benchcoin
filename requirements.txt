@@ -2,7 +2,7 @@
 #    uv pip compile pyproject.toml -o requirements.txt
 codespell==2.2.6
     # via bitcoin-core-deps (pyproject.toml)
-lief==0.13.2
+lief==0.15.0
     # via bitcoin-core-deps (pyproject.toml)
 matplotlib==3.8.0
     # via bitcoin-core-deps (pyproject.toml)
